@@ -1,5 +1,5 @@
 
 resource "aws_instance" "example" {
-  ami           = "ami-2757f631"
+  ami           = "ami-f90a4880"
   instance_type = "t2.micro"
 }
